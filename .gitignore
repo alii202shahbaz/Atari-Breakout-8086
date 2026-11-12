@@ -1,0 +1,11 @@
+# Generated DOS executable and assembler outputs
+*.com
+*.COM
+*.bin
+*.obj
+*.o
+
+# Editor / operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
